@@ -28,9 +28,12 @@
       <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="72">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#483#643#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -361,14 +364,11 @@
       <option name="presentableId" value="Default" />
       <updated>1507556118224</updated>
       <workItem from="1507556121972" duration="7534000" />
-      <workItem from="1507640262334" duration="820000" />
+      <workItem from="1507640262334" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest - 2017.10.10 at 16h 39m 51s.xml">
-      <configuration name="FibonacciTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FibonacciTest - 2017.10.10 at 16h 40m 31s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
@@ -390,6 +390,9 @@
     <history-entry file="FibonacciTest - 2017.10.10 at 17h 10m 39s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FibonacciTest - 2017.10.10 at 17h 12m 47s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="FibonacciTest_test1_000 - 2017.10.10 at 16h 56m 31s.xml">
       <configuration name="FibonacciTest.test1_000" configurationId="JUnit" />
     </history-entry>
@@ -398,7 +401,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8354000" />
+    <option name="totallyTimeSpent" value="8496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -529,9 +532,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#483#643#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -8,20 +8,29 @@ import java.util.concurrent.RecursiveTask;
  * @project ManagedBlocked
  */
 
-//      demo1: test100_000_000() time = 42332
+//    demo1: test100_000_000() time = 42332
+//    demo2: test100_000_000() time = 20991
 public class Fibonacci {
     public BigInteger f(int n) {
         if (n == 0) return BigInteger.ZERO;
         if (n == 1) return BigInteger.ONE;
 
-        int half=(n+1)/2;
+        int half = (n + 1) / 2;
 
-        BigInteger f0=f(half-1);
-        BigInteger f1= f(half);
+        RecursiveTask<BigInteger> f0_task = new RecursiveTask<BigInteger>() {
+            @Override
+            protected BigInteger compute() {
+                return f(half - 1);
+            }
+        };
+        f0_task.fork();
 
-        if(n%2==1){
+        BigInteger f1 = f(half);
+        BigInteger f0 = f0_task.join();
+
+        if (n % 2 == 1) {
             return f0.multiply(f0).add(f1.multiply(f1));
-        }else{
+        } else {
             return f0.shiftLeft(1).add(f1).multiply(f1);
         }
 //        return f(n - 1).add(f(n - 2));
