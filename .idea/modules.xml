@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ManagedBlocked.iml" filepath="$PROJECT_DIR$/ManagedBlocked.iml" />
       <module fileurl="file://$PROJECT_DIR$/forkjoinfib/forkjoinfib.iml" filepath="$PROJECT_DIR$/forkjoinfib/forkjoinfib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forkjoinfib/forkjoinfib.iml" filepath="$PROJECT_DIR$/forkjoinfib/forkjoinfib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathhack/mathhack.iml" filepath="$PROJECT_DIR$/mathhack/mathhack.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathhack/mathhack.iml" filepath="$PROJECT_DIR$/mathhack/mathhack.iml" />
     </modules>
   </component>
