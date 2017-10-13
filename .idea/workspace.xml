@@ -25,26 +25,656 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#483#643#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#527#687#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForkjoinfibApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/ForkjoinfibApplication.java">
+      <file leaf-file-name="BigInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/math/BigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="207">
+              <caret line="1711" column="10" lean-forward="false" selection-start-line="1711" selection-start-column="8" selection-end-line="1711" selection-end-column="10" />
+              <folding>
+                <element signature="docComment;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#signum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#mag#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#5567#5637#0" expanded="false" />
+                <element signature="docComment;field#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#lowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#LONG_MASK#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MAX_MAG_LENGTH#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#PRIME_SEARCH_BIT_LENGTH_LIMIT#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#KARATSUBA_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TOOM_COOK_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#KARATSUBA_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TOOM_COOK_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#BURNIKEL_ZIEGLER_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#BURNIKEL_ZIEGLER_OFFSET#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#SCHOENHAGE_BASE_CONVERSION_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MULTIPLY_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MONTGOMERY_INTRINSIC_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#3;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#4;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#4;class#BigInteger#0" expanded="false" />
+                <element signature="e#17234#17298#0" expanded="false" />
+                <element signature="method#BigInteger#5;class#BigInteger#0" expanded="false" />
+                <element signature="method#parseInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#destructiveMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#6;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#7;class#BigInteger#0" expanded="false" />
+                <element signature="method#randomBits#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#8;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#8;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#probablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#probablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#smallPrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#smallPrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#largePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#largePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getPrimeSearchLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#33795#33861#0" expanded="false" />
+                <element signature="docComment;method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#lucasLehmerSequence#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#9;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#9;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#10;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#10;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#checkRange#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#checkRange#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#valueOf#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#valueOf#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#11;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#11;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#valueOf#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MAX_CONSTANT#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#powerCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#logCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#LOG_TWO#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#ZERO#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#ONE#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TWO#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#NEGATIVE_ONE#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TEN#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#3;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyByInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiply#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiply#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#59771#59829#0" expanded="false" />
+                <element signature="docComment;method#multiplyToomCook3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#62537#62604#0" expanded="false" />
+                <element signature="method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#65815#65873#0" expanded="false" />
+                <element signature="docComment;method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#67063#67123#0" expanded="false" />
+                <element signature="e#67353#67411#0" expanded="false" />
+                <element signature="docComment;method#getLower#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getLower#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getUpper#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getUpper#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#square#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#square#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#squareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#74605#74664#0" expanded="false" />
+                <element signature="e#75186#75244#0" expanded="false" />
+                <element signature="docComment;method#divide#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divide#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#remainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#pow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#pow#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#81606#81673#0" expanded="false" />
+                <element signature="e#82969#83030#0" expanded="false" />
+                <element signature="e#83247#83313#0" expanded="false" />
+                <element signature="e#84606#84664#0" expanded="false" />
+                <element signature="e#85286#85346#0" expanded="false" />
+                <element signature="docComment;method#gcd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#gcd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLengthForInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#leftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#leftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primitiveRightShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primitiveLeftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#abs#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#negate#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#signum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mod#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mod#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montgomerySquare#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomeryMultiplyChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#materialize#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomerySquare#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#oddModPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#oddModPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#100211#100273#0" expanded="false" />
+                <element signature="e#101291#101353#0" expanded="false" />
+                <element signature="docComment;method#montReduce#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montReduce#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intArrayCmpToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subN#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#subN#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#addOne#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#addOne#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modPow2#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modPow2#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mod2#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mod2#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modInverse#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modInverse#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#112179#112229#0" expanded="false" />
+                <element signature="docComment;method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shiftRight#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftRight#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#114193#114249#0" expanded="false" />
+                <element signature="docComment;method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#javaIncrement#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#and#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#and#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#or#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#or#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#xor#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#xor#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#not#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#not#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#andNot#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#andNot#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#testBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#testBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#setBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#setBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#clearBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#clearBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#flipBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#flipBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLength#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitLength#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareTo#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareTo#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#equals#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#equals#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#min#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#max#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#hashCode#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#hashCode#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#toString#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#133145#133216#0" expanded="false" />
+                <element signature="docComment;method#smallToString#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#smallToString#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#toString#1;class#BigInteger#0" expanded="false" />
+                <element signature="e#136272#136312#0" expanded="false" />
+                <element signature="e#136736#136794#0" expanded="false" />
+                <element signature="docComment;method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toByteArray#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#toByteArray#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#longValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#longValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#floatValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#floatValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#143881#143946#0" expanded="false" />
+                <element signature="docComment;method#doubleValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#doubleValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#147484#147550#0" expanded="false" />
+                <element signature="docComment;method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#makePositive#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#makePositive#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#makePositive#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#makePositive#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#serialVersionUID#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#serialPersistentFields#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#readObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#readObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##0;class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#writeObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#writeObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#164080#164145#0" expanded="false" />
+                <element signature="docComment;method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#longValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#longValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mathhack/src/java/math/BigInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9150">
+              <caret line="2053" column="40" lean-forward="true" selection-start-line="2053" selection-start-column="40" selection-end-line="2053" selection-end-column="40" />
+              <folding>
+                <element signature="docComment;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#signum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#mag#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#5685#5755#0" expanded="false" />
+                <element signature="docComment;field#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#lowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#LONG_MASK#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MAX_MAG_LENGTH#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#PRIME_SEARCH_BIT_LENGTH_LIMIT#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#KARATSUBA_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TOOM_COOK_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#KARATSUBA_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TOOM_COOK_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#BURNIKEL_ZIEGLER_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#BURNIKEL_ZIEGLER_OFFSET#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#SCHOENHAGE_BASE_CONVERSION_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MULTIPLY_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MONTGOMERY_INTRINSIC_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#3;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#4;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#4;class#BigInteger#0" expanded="false" />
+                <element signature="e#17352#17416#0" expanded="false" />
+                <element signature="method#BigInteger#5;class#BigInteger#0" expanded="false" />
+                <element signature="method#parseInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#destructiveMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#6;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#7;class#BigInteger#0" expanded="false" />
+                <element signature="method#randomBits#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#8;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#8;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#probablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#probablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#smallPrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#smallPrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#largePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#largePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getPrimeSearchLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#33913#33979#0" expanded="false" />
+                <element signature="docComment;method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#lucasLehmerSequence#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#9;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#9;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#10;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#10;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#checkRange#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#checkRange#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#valueOf#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#valueOf#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#BigInteger#11;class#BigInteger#0" expanded="false" />
+                <element signature="method#BigInteger#11;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#valueOf#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#MAX_CONSTANT#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#powerCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#logCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#LOG_TWO#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#ZERO#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#ONE#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TWO#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#NEGATIVE_ONE#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#TEN#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#add#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#add#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#2;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subtract#3;class#BigInteger#0" expanded="false" />
+                <element signature="method#subtract#3;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyByInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiply#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiply#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#59889#59947#0" expanded="false" />
+                <element signature="docComment;method#multiplyToomCook3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#62655#62722#0" expanded="false" />
+                <element signature="docComment;method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#66090#66148#0" expanded="false" />
+                <element signature="docComment;method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#67338#67398#0" expanded="false" />
+                <element signature="e#67628#67686#0" expanded="false" />
+                <element signature="docComment;method#getLower#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getLower#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getUpper#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getUpper#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#square#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#square#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#squareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#74880#74939#0" expanded="false" />
+                <element signature="e#75612#75670#0" expanded="false" />
+                <element signature="docComment;method#divide#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divide#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#remainder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#remainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#pow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#pow#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#82032#82099#0" expanded="false" />
+                <element signature="e#83395#83456#0" expanded="false" />
+                <element signature="e#83673#83739#0" expanded="false" />
+                <element signature="e#85032#85090#0" expanded="false" />
+                <element signature="e#85712#85772#0" expanded="false" />
+                <element signature="docComment;method#gcd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#gcd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLengthForInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#leftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#leftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primitiveRightShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#primitiveLeftShift#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#abs#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#negate#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#signum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mod#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mod#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montgomerySquare#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomeryMultiplyChecks#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#materialize#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMontgomerySquare#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#oddModPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#oddModPow#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#100637#100699#0" expanded="false" />
+                <element signature="e#101717#101779#0" expanded="false" />
+                <element signature="docComment;method#montReduce#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#montReduce#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intArrayCmpToLen#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#subN#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#subN#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#addOne#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#addOne#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modPow2#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modPow2#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#mod2#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#mod2#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#modInverse#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#modInverse#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#112605#112655#0" expanded="false" />
+                <element signature="docComment;method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shiftRight#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftRight#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#114619#114675#0" expanded="false" />
+                <element signature="docComment;method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#javaIncrement#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#and#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#and#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#or#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#or#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#xor#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#xor#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#not#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#not#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#andNot#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#andNot#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#testBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#testBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#setBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#setBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#clearBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#clearBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#flipBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#flipBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitLength#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitLength#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#bitCount#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareTo#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareTo#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#equals#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#equals#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#min#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#max#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#hashCode#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#hashCode#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#toString#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#133571#133642#0" expanded="false" />
+                <element signature="docComment;method#smallToString#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#smallToString#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#toString#1;class#BigInteger#0" expanded="false" />
+                <element signature="e#136698#136738#0" expanded="false" />
+                <element signature="e#137162#137220#0" expanded="false" />
+                <element signature="docComment;method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toString#2;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#toByteArray#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#toByteArray#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#longValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#longValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#floatValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#floatValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#144307#144372#0" expanded="false" />
+                <element signature="docComment;method#doubleValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#doubleValue#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#147910#147976#0" expanded="false" />
+                <element signature="docComment;method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#makePositive#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#makePositive#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#makePositive#1;class#BigInteger#0" expanded="false" />
+                <element signature="method#makePositive#1;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intLength#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#getInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#getInt#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#serialVersionUID#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;field#serialPersistentFields#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#readObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#readObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+                <element signature="initializer##0;class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#writeObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#writeObject#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#164506#164571#0" expanded="false" />
+                <element signature="docComment;method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#longValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#longValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#intValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#intValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="docComment;method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+                <element signature="e#168936#168937#0" expanded="true" />
+                <element signature="e#168980#168981#0" expanded="true" />
+                <element signature="e#169135#169136#0" expanded="true" />
+                <element signature="e#169167#169168#0" expanded="true" />
+                <element signature="e#169226#169227#0" expanded="true" />
+                <element signature="e#169267#169268#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +691,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>usin</find>
+      <find>TOOM_COOK_THRESHOLD</find>
+      <find>toom</find>
+      <find>cook</find>
+      <find>multiplyToomCook3</find>
+      <find>v0 = a0.multiply(b0)</find>
+      <find>v0</find>
+      <find>v0</find>
+      <find>multiplyToom</find>
+      <find>square</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -83,9 +722,9 @@
         <option value="$PROJECT_DIR$/forkjoinfib/src/main/java/blocker/BlockerApplication.java" />
         <option value="$PROJECT_DIR$/forkjoinfib/src/test/java/blocker/BlockerApplicationTests.java" />
         <option value="$PROJECT_DIR$/forkjoinfib/pom.xml" />
-        <option value="$PROJECT_DIR$/mathhack/src/java/math/BigInteger.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/BigInteger.java" />
+        <option value="$PROJECT_DIR$/mathhack/src/java/math/BigInteger.java" />
         <option value="$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java" />
       </list>
     </option>
@@ -165,6 +804,30 @@
             <path>
               <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
               <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="forkjoinfib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="forkjoinfib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="forkjoinfib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blocker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
               <item name="mathhack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -172,6 +835,27 @@
               <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
               <item name="mathhack" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="mathhack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="mathhack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TurboChargeManagedBlocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TurboChargeManagedBlocker" type="462c0819:PsiDirectoryNode" />
+              <item name="mathhack" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,17 +878,24 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\umahmudov\Documents\ExampleApplications\example\TurboChargeManagedBlocker\mathhack\src" />
+      <recent name="C:\Users\umahmudov\Documents\ExampleApplications\example\TurboChargeManagedBlocker\mathhack" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.learn.blocker" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umahmudov\Documents\ExampleApplications\example\TurboChargeManagedBlocker\mathhack\src\java\math" />
       <recent name="C:\Users\umahmudov\Documents\ExampleApplications\example\TurboChargeManagedBlocker\forkjoinfib\src\main\java\org\learn\blocker" />
       <recent name="D:\Projects\Examples\ManagedBlocked\forkjoinfib\src\test\java\org\learn" />
       <recent name="D:\Projects\Examples\ManagedBlocked\forkjoinfib\src\test\java" />
       <recent name="D:\Projects\Examples\ManagedBlocked\forkjoinfib\src\main\java\org\learn" />
-      <recent name="D:\Projects\Examples\ManagedBlocked\forkjoinfib\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,7 +925,7 @@
       <option name="MAIN_CLASS_NAME" value="org.learn.blocker.FibonacciTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea -verbose:gc -XX:SurvivorRatio=1 -Xbootclasspath/p:/Users/umahmudov/Documents/ExampleApplications/example/TurboChargeManagedBlocker/mathhack" />
+      <option name="VM_PARAMETERS" value="-ea -verbose:gc -XX:SurvivorRatio=1 -Xbootclasspath/p:/Users/umahmudov/Documents/ExampleApplications/example/TurboChargeManagedBlocker/mathhack/target/classes" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -259,9 +950,9 @@
       <option name="MAIN_CLASS_NAME" value="org.learn.blocker.FibonacciTest" />
       <option name="METHOD_NAME" value="test1_000" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" value="-ea -verbose:gc -XX:SurvivorRatio=1 -Xbootclasspath/p:..dsdsdsds" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -406,6 +1097,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="56ea879d-2443-4c75-87fb-759a5104eccb" name="Default" comment="" />
@@ -416,61 +1110,60 @@
       <workItem from="1507556121972" duration="7534000" />
       <workItem from="1507640262334" duration="962000" />
       <workItem from="1507642023959" duration="1233000" />
-      <workItem from="1507714856479" duration="5941000" />
+      <workItem from="1507714856479" duration="12080000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest - 2017.10.10 at 17h 10m 39s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 10h 23m 09s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.10 at 17h 12m 47s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 13h 22m 38s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.11 at 17h 47m 23s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 13h 24m 32s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.11 at 17h 48m 09s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 13h 24m 54s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.12 at 17h 01m 05s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 16h 12m 39s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.12 at 17h 02m 30s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 16h 13m 32s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.12 at 17h 04m 49s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 16h 14m 11s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2017.10.12 at 17h 07m 20s.xml">
+    <history-entry file="FibonacciTest - 2017.10.13 at 16h 22m 32s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_test1_000 - 2017.10.10 at 16h 56m 31s.xml">
-      <configuration name="FibonacciTest.test1_000" configurationId="JUnit" />
+    <history-entry file="FibonacciTest - 2017.10.13 at 16h 56m 18s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_testSimpleValues - 2017.10.10 at 16h 56m 25s.xml">
-      <configuration name="FibonacciTest.testSimpleValues" configurationId="JUnit" />
+    <history-entry file="FibonacciTest - 2017.10.13 at 17h 04m 32s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15670000" />
+    <option name="totallyTimeSpent" value="21809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20202559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -480,7 +1173,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28818443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28818443" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -527,8 +1220,8 @@
           <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#483#643#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#527#687#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,8 +1248,8 @@
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#483#643#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#527#687#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,14 +1291,6 @@
     <entry file="file://$PROJECT_DIR$/forkjoinfib/src/test/java/blocker/FibonacciTest.java" />
     <entry file="file://$PROJECT_DIR$/forkjoinfib/src/test/java/blocker/BlockerApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/forkjoinfib/src/test/java/org/learn/blocker/BlockerApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/forkjoinfib/src/test/java/org/learn/blocker/FibonacciTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mathhack/src/main/java/java/math/MathhackApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -618,22 +1303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forkjoinfib/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="122" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4594" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -654,16 +1323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mathhack/src/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="134" column="21" lean-forward="true" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#168271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mathhack/mathhack.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -680,25 +1339,763 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#483#643#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/ForkjoinfibApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/forkjoinfib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mathhack/target/classes/java/math/BigInteger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#101637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forkjoinfib/src/test/java/org/learn/blocker/FibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1711" column="10" lean-forward="false" selection-start-line="1711" selection-start-column="8" selection-end-line="1711" selection-end-column="10" />
+          <folding>
+            <element signature="docComment;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#signum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#mag#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#5567#5637#0" expanded="false" />
+            <element signature="docComment;field#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#lowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#LONG_MASK#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MAX_MAG_LENGTH#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#PRIME_SEARCH_BIT_LENGTH_LIMIT#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#KARATSUBA_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TOOM_COOK_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#KARATSUBA_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TOOM_COOK_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#BURNIKEL_ZIEGLER_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#BURNIKEL_ZIEGLER_OFFSET#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#SCHOENHAGE_BASE_CONVERSION_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MULTIPLY_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MONTGOMERY_INTRINSIC_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#3;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#4;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#4;class#BigInteger#0" expanded="false" />
+            <element signature="e#17234#17298#0" expanded="false" />
+            <element signature="method#BigInteger#5;class#BigInteger#0" expanded="false" />
+            <element signature="method#parseInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#destructiveMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#6;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#7;class#BigInteger#0" expanded="false" />
+            <element signature="method#randomBits#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#8;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#8;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#probablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#probablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#smallPrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#smallPrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#largePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#largePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getPrimeSearchLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#33795#33861#0" expanded="false" />
+            <element signature="docComment;method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#lucasLehmerSequence#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#9;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#9;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#10;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#10;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#checkRange#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#checkRange#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#valueOf#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#11;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#11;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MAX_CONSTANT#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#powerCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#logCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#LOG_TWO#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#ZERO#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#ONE#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TWO#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#NEGATIVE_ONE#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TEN#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#3;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyByInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiply#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiply#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#59771#59829#0" expanded="false" />
+            <element signature="docComment;method#multiplyToomCook3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#62537#62604#0" expanded="false" />
+            <element signature="method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#65815#65873#0" expanded="false" />
+            <element signature="docComment;method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#67063#67123#0" expanded="false" />
+            <element signature="e#67353#67411#0" expanded="false" />
+            <element signature="docComment;method#getLower#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getLower#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getUpper#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getUpper#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#square#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#square#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#squareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#74605#74664#0" expanded="false" />
+            <element signature="e#75186#75244#0" expanded="false" />
+            <element signature="docComment;method#divide#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divide#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#remainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#pow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#pow#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#81606#81673#0" expanded="false" />
+            <element signature="e#82969#83030#0" expanded="false" />
+            <element signature="e#83247#83313#0" expanded="false" />
+            <element signature="e#84606#84664#0" expanded="false" />
+            <element signature="e#85286#85346#0" expanded="false" />
+            <element signature="docComment;method#gcd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#gcd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLengthForInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#leftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#leftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primitiveRightShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primitiveLeftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#abs#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#negate#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#signum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mod#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mod#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montgomerySquare#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomeryMultiplyChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#materialize#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomerySquare#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#oddModPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#oddModPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#100211#100273#0" expanded="false" />
+            <element signature="e#101291#101353#0" expanded="false" />
+            <element signature="docComment;method#montReduce#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montReduce#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intArrayCmpToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subN#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#subN#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#addOne#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#addOne#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modPow2#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modPow2#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mod2#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mod2#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modInverse#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modInverse#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#112179#112229#0" expanded="false" />
+            <element signature="docComment;method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shiftRight#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftRight#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#114193#114249#0" expanded="false" />
+            <element signature="docComment;method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#javaIncrement#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#and#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#and#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#or#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#or#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#xor#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#xor#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#not#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#not#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#andNot#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#andNot#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#testBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#testBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#setBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#setBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#clearBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#clearBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#flipBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#flipBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLength#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitLength#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareTo#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#equals#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#min#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#max#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#hashCode#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#toString#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#133145#133216#0" expanded="false" />
+            <element signature="docComment;method#smallToString#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#smallToString#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#toString#1;class#BigInteger#0" expanded="false" />
+            <element signature="e#136272#136312#0" expanded="false" />
+            <element signature="e#136736#136794#0" expanded="false" />
+            <element signature="docComment;method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toByteArray#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#toByteArray#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#longValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#longValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#floatValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#floatValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#143881#143946#0" expanded="false" />
+            <element signature="docComment;method#doubleValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#doubleValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#147484#147550#0" expanded="false" />
+            <element signature="docComment;method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#makePositive#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#makePositive#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#makePositive#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#makePositive#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#readObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##0;class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#writeObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#164080#164145#0" expanded="false" />
+            <element signature="docComment;method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#longValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#longValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mathhack/src/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9150">
+          <caret line="2053" column="40" lean-forward="true" selection-start-line="2053" selection-start-column="40" selection-end-line="2053" selection-end-column="40" />
+          <folding>
+            <element signature="docComment;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#signum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#mag#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#5685#5755#0" expanded="false" />
+            <element signature="docComment;field#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#lowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#LONG_MASK#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MAX_MAG_LENGTH#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#PRIME_SEARCH_BIT_LENGTH_LIMIT#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#KARATSUBA_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TOOM_COOK_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#KARATSUBA_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TOOM_COOK_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#BURNIKEL_ZIEGLER_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#BURNIKEL_ZIEGLER_OFFSET#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#SCHOENHAGE_BASE_CONVERSION_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MULTIPLY_SQUARE_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MONTGOMERY_INTRINSIC_THRESHOLD#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#3;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#4;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#4;class#BigInteger#0" expanded="false" />
+            <element signature="e#17352#17416#0" expanded="false" />
+            <element signature="method#BigInteger#5;class#BigInteger#0" expanded="false" />
+            <element signature="method#parseInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#destructiveMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#6;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#7;class#BigInteger#0" expanded="false" />
+            <element signature="method#randomBits#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#8;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#8;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#probablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#probablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#smallPrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#smallPrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#largePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#largePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#nextProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getPrimeSearchLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primeToCertainty#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#33913#33979#0" expanded="false" />
+            <element signature="docComment;method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#passesLucasLehmer#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#jacobiSymbol#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#lucasLehmerSequence#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#passesMillerRabin#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#9;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#9;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#10;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#10;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#checkRange#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#checkRange#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#valueOf#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#BigInteger#11;class#BigInteger#0" expanded="false" />
+            <element signature="method#BigInteger#11;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#MAX_CONSTANT#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#powerCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#logCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#LOG_TWO#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#ZERO#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#ONE#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TWO#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#NEGATIVE_ONE#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#TEN#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#add#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#add#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#2;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subtract#3;class#BigInteger#0" expanded="false" />
+            <element signature="method#subtract#3;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyByInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiply#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiply#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#multiplyKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#59889#59947#0" expanded="false" />
+            <element signature="docComment;method#multiplyToomCook3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#62655#62722#0" expanded="false" />
+            <element signature="docComment;method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getToomSlice#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#66090#66148#0" expanded="false" />
+            <element signature="docComment;method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#exactDivideBy3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#67338#67398#0" expanded="false" />
+            <element signature="e#67628#67686#0" expanded="false" />
+            <element signature="docComment;method#getLower#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getLower#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getUpper#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getUpper#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#square#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#square#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#squareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implSquareToLenChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implSquareToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#squareKaratsuba#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#squareToomCook3#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#74880#74939#0" expanded="false" />
+            <element signature="e#75612#75670#0" expanded="false" />
+            <element signature="docComment;method#divide#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divide#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#remainder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#remainderKnuth#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#remainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#divideAndRemainderBurnikelZiegler#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#pow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#pow#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#82032#82099#0" expanded="false" />
+            <element signature="e#83395#83456#0" expanded="false" />
+            <element signature="e#83673#83739#0" expanded="false" />
+            <element signature="e#85032#85090#0" expanded="false" />
+            <element signature="e#85712#85772#0" expanded="false" />
+            <element signature="docComment;method#gcd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#gcd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLengthForInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#leftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#leftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primitiveRightShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#primitiveLeftShift#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#abs#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#negate#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#signum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mod#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mod#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montgomerySquare#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomeryMultiplyChecks#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#materialize#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomeryMultiply#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMontgomerySquare#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#oddModPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#oddModPow#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#100637#100699#0" expanded="false" />
+            <element signature="e#101717#101779#0" expanded="false" />
+            <element signature="docComment;method#montReduce#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#montReduce#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intArrayCmpToLen#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#subN#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#subN#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMulAddCheck#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#implMulAdd#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#addOne#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#addOne#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modPow2#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modPow2#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#mod2#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#mod2#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#modInverse#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#modInverse#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftLeft#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#112605#112655#0" expanded="false" />
+            <element signature="docComment;method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftLeft#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shiftRight#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftRight#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#114619#114675#0" expanded="false" />
+            <element signature="docComment;method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shiftRightImpl#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#javaIncrement#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#and#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#and#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#or#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#or#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#xor#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#xor#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#not#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#not#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#andNot#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#andNot#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#testBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#testBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#setBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#setBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#clearBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#clearBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#flipBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#flipBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getLowestSetBit#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitLength#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitLength#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#bitCount#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#isProbablePrime#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareTo#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareMagnitude#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#compareMagnitude#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#equals#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#min#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#max#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#hashCode#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#toString#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#133571#133642#0" expanded="false" />
+            <element signature="docComment;method#smallToString#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#smallToString#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#toString#1;class#BigInteger#0" expanded="false" />
+            <element signature="e#136698#136738#0" expanded="false" />
+            <element signature="e#137162#137220#0" expanded="false" />
+            <element signature="docComment;method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getRadixConversionCache#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toString#2;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#toByteArray#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#toByteArray#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#longValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#longValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#floatValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#floatValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#144307#144372#0" expanded="false" />
+            <element signature="docComment;method#doubleValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#doubleValue#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#147910#147976#0" expanded="false" />
+            <element signature="docComment;method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#stripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#trustedStripLeadingZeroInts#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#stripLeadingZeroBytes#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#makePositive#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#makePositive#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#makePositive#1;class#BigInteger#0" expanded="false" />
+            <element signature="method#makePositive#1;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intLength#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#getInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#getInt#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#firstNonzeroIntNum#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#readObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+            <element signature="initializer##0;class#UnsafeHolder#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#writeObject#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#164506#164571#0" expanded="false" />
+            <element signature="docComment;method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#magSerializedForm#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#longValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#longValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#intValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#intValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#shortValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="docComment;method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="method#byteValueExact#0;class#BigInteger#0" expanded="false" />
+            <element signature="e#168936#168937#0" expanded="true" />
+            <element signature="e#168980#168981#0" expanded="true" />
+            <element signature="e#169135#169136#0" expanded="true" />
+            <element signature="e#169167#169168#0" expanded="true" />
+            <element signature="e#169226#169227#0" expanded="true" />
+            <element signature="e#169267#169268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forkjoinfib/src/main/java/org/learn/blocker/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#687#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>forkjoinfib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

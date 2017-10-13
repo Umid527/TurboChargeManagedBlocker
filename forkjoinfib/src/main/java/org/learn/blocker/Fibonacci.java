@@ -10,6 +10,7 @@ import java.util.concurrent.RecursiveTask;
 
 //    demo1: test100_000_000() time = 42332
 //    demo2: test100_000_000() time = 20991
+//    demo3: test100_000_000() time = 12555
 public class Fibonacci {
     public BigInteger f(int n) {
         if (n == 0) return BigInteger.ZERO;

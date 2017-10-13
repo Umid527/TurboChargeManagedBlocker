@@ -35,6 +35,7 @@ import java.io.ObjectOutputStream;
 import java.io.ObjectStreamField;
 import java.util.Arrays;
 import java.util.Random;
+import java.util.concurrent.RecursiveTask;
 import java.util.concurrent.ThreadLocalRandom;
 import sun.misc.DoubleConsts;
 import sun.misc.FloatConsts;
@@ -122,7 +123,7 @@ import sun.misc.FloatConsts;
 
 public class BigInteger extends Number implements Comparable<BigInteger> {
     static {
-        System.out.println("Using hacked BigInteger");
+        System.out.println("Using hacked BigInteger!");
     }
     /**
      * The signum of this BigInteger: -1 for negative, 0 for zero, or
@@ -1712,16 +1713,21 @@ public class BigInteger extends Number implements Comparable<BigInteger> {
 
         BigInteger v0, v1, v2, vm1, vinf, t1, t2, tm1, da1, db1;
 
-        v0 = a0.multiply(b0);
+        MultiplyTask v0_task =new MultiplyTask(a0,b0);
+        v0_task.fork();
         da1 = a2.add(a0);
         db1 = b2.add(b0);
         vm1 = da1.subtract(a1).multiply(db1.subtract(b1));
         da1 = da1.add(a1);
         db1 = db1.add(b1);
-        v1 = da1.multiply(db1);
+        v0 = v0_task.join();
+
+        MultiplyTask v1_task =new MultiplyTask(da1,db1);
+        v1_task.fork();
         v2 = da1.add(a2).shiftLeft(1).subtract(a0).multiply(
              db1.add(b2).shiftLeft(1).subtract(b0));
         vinf = a2.multiply(b2);
+        v1 = v1_task.join();
 
         // The algorithm requires two divisions by 2 and one by 3.
         // All divisions are known to be exact, that is, they do not produce
@@ -2049,13 +2055,18 @@ public class BigInteger extends Number implements Comparable<BigInteger> {
         a0 = getToomSlice(k, r, 2, len);
         BigInteger v0, v1, v2, vm1, vinf, t1, t2, tm1, da1;
 
-        v0 = a0.square();
+        SquareTask v0_task= new SquareTask(a0);
+        v0_task.fork();
         da1 = a2.add(a0);
         vm1 = da1.subtract(a1).square();
         da1 = da1.add(a1);
-        v1 = da1.square();
+        v0 = v0_task.join();
+
+        SquareTask v1_task= new SquareTask(da1);
+        v1_task.fork();
         vinf = a2.square();
         v2 = da1.add(a2).shiftLeft(1).subtract(a0).square();
+        v1 = v1_task.join();
 
         // The algorithm requires two divisions by 2 and one by 3.
         // All divisions are known to be exact, that is, they do not produce
@@ -4593,5 +4604,30 @@ public class BigInteger extends Number implements Comparable<BigInteger> {
                 return byteValue();
         }
         throw new ArithmeticException("BigInteger out of byte range");
+    }
+
+    private static class MultiplyTask extends RecursiveTask<BigInteger>{
+        private final BigInteger a;
+        private final BigInteger b;
+        public MultiplyTask(BigInteger a, BigInteger b) {
+            this.a=a;
+            this.b=b;
+        }
+
+        @Override
+        protected BigInteger compute(){
+            return a.multiply(b);
+        }
+    }
+    private static class SquareTask extends RecursiveTask<BigInteger>{
+        private final BigInteger a;
+        public SquareTask(BigInteger a) {
+            this.a=a;
+        }
+
+        @Override
+        protected BigInteger compute(){
+            return a.square();
+        }
     }
 }
