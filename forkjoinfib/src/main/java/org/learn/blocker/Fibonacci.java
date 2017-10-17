@@ -4,6 +4,7 @@ import java.math.BigInteger;
 import java.util.Map;
 import java.util.concurrent.CancellationException;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
 /**
@@ -16,6 +17,7 @@ import java.util.concurrent.RecursiveTask;
 //    demo3: test100_000_000() time = 12555
 //    demo4: test100_000_000() time = 9973
 //    demo5: test100_000_000() time = 7069
+//    demo6: test100_000_000() time = 6881
 public class Fibonacci {
     public BigInteger f(int n) {
         Map<Integer, BigInteger> cache = new ConcurrentHashMap<>();
@@ -61,11 +63,9 @@ public class Fibonacci {
             }
         }else if(result==RESERVED){
             try{
-            synchronized (RESERVED){
-                while ((result = cache.get(n))==RESERVED){
-                    RESERVED.wait();
-                }
-            }
+                ReservedFibonacciBlocker blocker =new ReservedFibonacciBlocker(n,cache);
+                ForkJoinPool.managedBlock(blocker);
+                result =blocker.result;
             } catch (InterruptedException e) {
                 throw new CancellationException("interrupted");
             }
@@ -73,5 +73,30 @@ public class Fibonacci {
         }
         return result;
 //        return f(n - 1).add(f(n - 2));
+    }
+    private class ReservedFibonacciBlocker implements ForkJoinPool.ManagedBlocker{
+        private BigInteger result;
+        private final int n;
+        private final Map<Integer, BigInteger> cache;
+
+        public ReservedFibonacciBlocker(int n, Map<Integer, BigInteger> cache) {
+            this.n = n;
+            this.cache = cache;
+        }
+
+        @Override
+        public boolean block() throws InterruptedException {
+            synchronized (RESERVED){
+                while (!isReleasable()){
+                    RESERVED.wait();
+                }
+            }
+            return true;
+        }
+
+        @Override
+        public boolean isReleasable() {
+            return (result = cache.get(n))!=RESERVED;
+        }
     }
 }
